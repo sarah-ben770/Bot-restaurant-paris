@@ -20,4 +20,4 @@ Le bot gère la réservation de table et la consultation du menu en français.
 
 ## Auteur
 Sarah - Développeuse Chatbot 
-Recherche contrat CDI - Visa Talent France
+Recherche contrat CDI - France
