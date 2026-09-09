@@ -2,7 +2,13 @@
 
 ## Description
 Chatbot intelligent développé avec Google Dialogflow ES pour un restaurant français "Le Parisien". 
-Le bot gère la réservation de table et la consultation du menu en français.
+Le bot gère la réservation de table et la consultation du menu en français.## Comment tester
+1. Ouvrir Dialogflow ES
+2. Importer l'agent depuis le fichier `agent.zip`
+3. Tester avec: "Bonjour je voudrais réserver"
+
+## Compétences
+Dialogflow ES, NLP, Gestion des Intents, Paramètres, Français
 
 ## Fonctionnalités
 - **Accueil client** : Réponses automatiques en français
